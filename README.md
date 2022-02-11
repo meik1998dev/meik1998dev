@@ -17,6 +17,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=meik1998dev&theme=react-dark&hide_border=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meik1998dev&show_icons=true&locale=en&layout=compact" alt="meik1998dev" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meik1998dev&show_icons=true&locale=en&layout=compact" alt="meik1998dev" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=meik1998dev&" alt="meik1998dev" /></p>
+<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=meik1998dev&" alt="meik1998dev" /></p>
