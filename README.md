@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meik1998dev&label=Profile%20views&color=0e75b6&style=flat" alt="meik1998dev" /> </p>
 
--  I'm working as front-end developer at EcoMundo company **Remotely-France**
+-  I'm a front-end developer @Newsifier company
 
 -  🌱 I’m currently learning **Problem solving and Unit testing**
 
